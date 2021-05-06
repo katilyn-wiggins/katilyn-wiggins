@@ -23,12 +23,17 @@
 <img align="right" src="https://user-images.githubusercontent.com/32716761/117314874-2d46cd00-ae55-11eb-9044-f9e4de0d6ef7.png" height='312px' border-radius='35px'/>
 
 
-
-* 🔭 I’m currently working on a foundation prediction app utilizing AI </li>
-* 🌱 I’m currently learning react native, typescript, matter.js, and redux </li>
-* 👯 I’m looking to collaborate on an ESL extension! </li>
-* 🤔 I’m looking for help with technical interviews. </li>
-* 💬 Ask me about that time I was on Who Wants To Be A Millionarie.. and won :) </li>
+<p align='center'>
+* 🔭 I’m currently working on a foundation prediction app utilizing AI
+<br>
+* 🌱 I’m currently learning react native, typescript, matter.js, and redux
+<br>
+* 👯 I’m looking to collaborate on an ESL extension!
+<br>
+* 🤔 I’m looking for help with technical interviews.
+<br>
+* 💬 Ask me about that time I was on Who Wants To Be A Millionarie.. and won :)
+<br>
 * 📫 How to reach me: katilynswiggins@gmail.com </li>
 
 
