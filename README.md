@@ -1,8 +1,12 @@
 ![Copy of Blue Independence Day Eagle Facebook Event Cover Photo (3)](https://user-images.githubusercontent.com/32716761/117319692-8c0e4580-ae59-11eb-8784-ae23381d16a5.png)
 
-  <h3 align='center'>
+<p align='center'>
+<img align="center" src="https://user-images.githubusercontent.com/32716761/117317081-2faa2680-ae57-11eb-84f3-083bf1a8202f.png" height='312px' border-radius='35px'/>
+</p>
+
+<h3 align='center'>
   Hi there 👋 I'm Katilyn 
- </h3>
+</h3>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/katilynwiggins/">
@@ -18,9 +22,6 @@
   </a>&nbsp;&nbsp;
  </p> 
 
-<p align='center'>
-<img align="center" src="https://user-images.githubusercontent.com/32716761/117317081-2faa2680-ae57-11eb-84f3-083bf1a8202f.png" height='312px' border-radius='35px'/>
-</p>
 
 <p align='center'>
 * 🔭 I’m currently working on a foundation prediction app utilizing AI
