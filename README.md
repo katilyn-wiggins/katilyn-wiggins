@@ -4,8 +4,8 @@
   Hi there 👋 I'm Katilyn 
  </h3>
 
-<span align='center'>  
 
+<p align='center'>
 <a href="https://www.linkedin.com/in/katilynwiggins/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -17,7 +17,7 @@
  <a href="https://instagram.com/pinkishcreature">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" padding='none'/>        
   </a>&nbsp;&nbsp;
- </span> 
+ </p> 
 
 
 <img align="right" src="https://user-images.githubusercontent.com/32716761/117314874-2d46cd00-ae55-11eb-9044-f9e4de0d6ef7.png" height='312px' border-radius='35px'/>
