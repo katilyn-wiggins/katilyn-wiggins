@@ -53,10 +53,10 @@
 * Testing: Jest, Supertest, GithubCI
 </br>
 * Tools: Github, VSCode, Postman, Slack, Netlify, Heroku 
+</p>
 
 <p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">![image (1)](https://user-images.githubusercontent.com/32716761/117316961-14d7b200-ae57-11eb-9d0b-5503c6164c0b.png)
-
+ <a href="https://github.com/anuraghazra/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katilyn-wiggins&theme=solarized-light&layout=compact" />
  </a>&nbsp;&nbsp;
 </p>
