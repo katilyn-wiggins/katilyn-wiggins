@@ -1,4 +1,4 @@
-![Copy of Blue Independence Day Eagle Facebook Event Cover Photo (2)](https://user-images.githubusercontent.com/32716761/117319342-333ead00-ae59-11eb-81dc-22b4c312be6d.png)
+![Copy of Blue Independence Day Eagle Facebook Event Cover Photo (3)](https://user-images.githubusercontent.com/32716761/117319692-8c0e4580-ae59-11eb-8784-ae23381d16a5.png)
 
   <h3 align='center'>
   Hi there 👋 I'm Katilyn 
