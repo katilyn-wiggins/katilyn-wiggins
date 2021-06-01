@@ -53,7 +53,7 @@
 </br>
 * Testing: Jest, Supertest, GithubCI
 </br>
-* Tools: Github, VSCode, Postman, Slack, Netlify, Heroku 
+* Tools: Github, VSCode, Postman, Netlify, Heroku 
 </p>
 
 <p align="center">
