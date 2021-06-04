@@ -5,7 +5,7 @@
 </p>
 
 <h3 align='center'>
-  Hi there 👋 I'm Katilyn 
+  Hi there 👋 I'm Katilyn!
 </h3>
 
 <p align='center'>
