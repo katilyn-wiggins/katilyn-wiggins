@@ -26,7 +26,7 @@
 <p align='center'>
 * 🔭 I’m currently working on a foundation prediction app utilizing AI
 <br>
-* 🌱 I’m currently learning react native, typescript, matter.js, and redux
+* 🌱 I’m currently learning react native, typescript, matter.js, and regex
 <br>
 * 👯 I’m looking to collaborate on an ESL extension!
 <br>
