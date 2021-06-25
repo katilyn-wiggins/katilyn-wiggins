@@ -32,7 +32,7 @@
 <br>
 * 🤔 I’m looking for help with technical interviews.
 <br>
-* 💬 Ask me about that time I was on Who Wants To Be A Millionarie.. and won :)
+* 💬 Ask me about that time I was on Who Wants To Be A Millionarie.. and won :) 
 <br>
   * 📫 How to reach me: <a href = "mailto: katilynswiggins@gmail.com">katilynswiggins@gmail.com</a>
 </p>
