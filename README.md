@@ -51,7 +51,7 @@
 </br>
 * Databases: PostgreSQL
 </br>
-* Testing: Jest, Supertest, GithubCI
+* Testing: Jest, Supertest, GithubCI, React Testing Library
 </br>
 * Tools: Github, VSCode, Postman, Netlify, Heroku 
 </p>
