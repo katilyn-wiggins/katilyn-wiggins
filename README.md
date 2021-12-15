@@ -57,12 +57,6 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katilyn-wiggins&theme=solarized-light&layout=compact" />
- </a>&nbsp;&nbsp;
-</p>
-
-<p align="center">
 <a href="https://github.com/katilyn-wiggins/github-readme-streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=katilyn-wiggins&theme=solarized-light" />
  </a>&nbsp;&nbsp;
