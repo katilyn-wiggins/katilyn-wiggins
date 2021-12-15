@@ -45,15 +45,15 @@
 
 <h3 align='center'>{ TECH STACK }</h3> 
 <p align="center"> 
-* Languages: Javascript, HTML, CSS
+* Languages: Javascript, Ruby, PHP, HTML, CSS
 </br>
-* Frameworks/Libraries: React, Node, Express 
+* Frameworks/Libraries: React, Rails, Node, Express 
 </br>
 * Databases: PostgreSQL
 </br>
-* Testing: Jest, Supertest, GithubCI, React Testing Library
+* Testing: Jest, Supertest, GithubCI, React Testing Library, Minitest, Rspec
 </br>
-* Tools: Github, VSCode, Postman, Netlify, Heroku 
+* Tools: Github, Docker, VSCode, Postman, Netlify, Heroku
 </p>
 
 <p align="center">
