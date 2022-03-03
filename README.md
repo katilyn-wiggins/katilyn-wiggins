@@ -24,13 +24,11 @@
 
 
 <p align='center'>
-* 🔭 I’m currently working on a foundation prediction app utilizing AI
+* 🔭 I’m currently working on a law research
 <br>
-* 🌱 I’m currently learning react native, typescript, matter.js, and regex
+* 🌱 I’m currently learning react native, typescript, and selenium
 <br>
 * 👯 I’m looking to collaborate on an ESL extension!
-<br>
-* 🤔 I’m looking for help with technical interviews.
 <br>
 * 💬 Ask me about that time I was on Who Wants To Be A Millionarie.. and won :) 
 <br>
@@ -45,15 +43,15 @@
 
 <h3 align='center'>{ TECH STACK }</h3> 
 <p align="center"> 
-* Languages: Javascript, Ruby, PHP, HTML, CSS
+* Languages: Ruby, Javascript, Ruby, PHP, HTML, CSS
 </br>
 * Frameworks/Libraries: React, Rails, Node, Express 
 </br>
-* Databases: PostgreSQL
+* Databases: PostgreSQL, MySQL
 </br>
-* Testing: Jest, Supertest, GithubCI, React Testing Library, Minitest, Rspec
+* Testing: Rspec, Minitest, Jest, Supertest, GithubCI, React Testing Library, Minitest, Rspec
 </br>
-* Tools: Github, Docker, VSCode, Postman, Netlify, Heroku
+* Tools: Github, Docker, Jira, VSCode, Postman, Netlify, Heroku
 </p>
 
 <p align="center">
