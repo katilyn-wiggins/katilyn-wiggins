@@ -22,7 +22,7 @@
 
 
 <p align='center'>
-* 🔭 I’m currently working on a law research
+* 🔭 I’m currently working on a law research project 
 <br>
 * 🌱 I’m currently learning react native, typescript, and selenium
 <br>
