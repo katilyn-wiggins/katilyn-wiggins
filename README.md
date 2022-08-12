@@ -1,5 +1,3 @@
-![Copy of Blue Independence Day Eagle Facebook Event Cover Photo (3)](https://user-images.githubusercontent.com/32716761/117319692-8c0e4580-ae59-11eb-8784-ae23381d16a5.png)
-
 <p align='center'>
 <img align="center" src="https://user-images.githubusercontent.com/32716761/117317081-2faa2680-ae57-11eb-84f3-083bf1a8202f.png" height='200px'/>
 </p>
