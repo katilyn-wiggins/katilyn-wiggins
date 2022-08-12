@@ -41,7 +41,7 @@
 
 <h3 align='center'>{ TECH STACK }</h3> 
 <p align="center"> 
-* Languages: Ruby, Javascript, Ruby, PHP, HTML, CSS
+* Languages: Ruby, Javascript, PHP, HTML, CSS
 </br>
 * Frameworks/Libraries: React, Rails, Node, Express 
 </br>
